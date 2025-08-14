@@ -3,5 +3,4 @@ Hoy aprendí a usar Git
 Estoy modificando este archivo para ver el rastreo.
 Este archivo es parte del repositorio del curso HCPAB.
 Estoy editando el archivo para pasar de GitHub a la computadora local.
-Cambié el archivo en la rama develop.
-Estoy editando este archivo para generar un conflicto.
+Ahora arreglé el conflicto entre la rama main y la rama develop.
