@@ -1,3 +1,4 @@
 Hola Mundo
 Hoy aprendí a usar Git
-Estoy modificando este archivo para ver el rastreo. 
+Estoy modificando este archivo para ver el rastreo.
+Este archivo es parte del repositorio del curso HCPAB.
