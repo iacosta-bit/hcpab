@@ -4,3 +4,4 @@ Estoy modificando este archivo para ver el rastreo.
 Este archivo es parte del repositorio del curso HCPAB.
 Estoy editando el archivo para pasar de GitHub a la computadora local.
 Cambié el archivo en la rama develop.
+Estoy editando este archivo para generar un conflicto.
