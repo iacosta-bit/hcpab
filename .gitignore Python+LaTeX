@@ -1,0 +1,39 @@
+# --- Archivos temporales de LaTeX ---
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.nav
+*.snm
+*.vrb
+*.lof
+*.lot
+*.bbl
+*.blg
+
+# --- Archivos temporales de Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Entornos virtuales ---
+.venv/
+env/
+venv/
+
+# --- Archivos de Jupyter Notebook checkpoints ---
+.ipynb_checkpoints
+
+# --- Archivos de sistema (Windows/Mac) ---
+Thumbs.db
+.DS_Store
+
+# --- Archivos de datos grandes o intermedios ---
+*.h5
+*.hdf5
+*.nc
+*.csv
+*.tsv
